@@ -21,6 +21,10 @@ Le tout nicely formatted with CSS
 
 - Express
 - Template engines
-- BDD via un fichier json au sein du serveur
+- BDD via un fichier json au sein du serveur : chaque recherche doit comprendre
+  -  un id
+  -  date et heure de la requête
+  -  la ville cherchée
+  -  la température
 - calcul geocode+temperature disponible sur un package public dans un package public npm
 - déployer son application en production
